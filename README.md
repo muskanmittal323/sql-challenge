@@ -23,3 +23,16 @@ Data Import:
 - Inspecting the provided CSV files to understand the data structure.
 - Sketched an Entity Relationship Diagram (ERD) using a tool like QuickDBD.
 - The ERD clearly shows the tables, their relationships, primary keys, and foreign keys.
+
+# Data Analysis
+
+Perform SQL queries to retrieve specific information:
+
+- Listing employee details including employee number, last name, first name, sex, and salary.
+- Listing employees hired in 1986.
+- Listing department managers with department details.
+- Listing employees along with their department details.
+- Listing employees named Hercules with a last name starting with 'B'.
+- Listing all employees in the Sales department.
+- Listing all employees in Sales and Development departments.
+- Generating a frequency count of employee last names in descending order.
